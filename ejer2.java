@@ -1,6 +1,6 @@
 package escuela_it.poo;
 
-public class Primo2 {
+public class Primos1 {
 	public static void main(String[] args) {
 		int i=0;
 		boolean esPrimo=false;
